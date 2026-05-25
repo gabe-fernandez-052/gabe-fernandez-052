@@ -1,15 +1,10 @@
 # Gabe Fernandez
 
-Software Architect with 10+ years building .NET systems. My focus lately is modernizing legacy codebases — finding the domain buried inside the big ball of mud and rebuilding it in a way that can actually grow.
+Software Architect with 10+ years building .NET systems on Azure. My focus is modernizing legacy codebases — finding the domain buried inside the big ball of mud and rebuilding it in a way that can actually grow.
 
-I'm a strong believer in Domain-Driven Design as a tool for that work. Not as a rigid framework, but as a way of thinking about how software should reflect the business it serves.
+A lot of that work means crossing team and vertical boundaries before touching any code. The actual architecture problem is usually a knowledge problem first — understanding how the business works, not just how the current system models it. Domain-Driven Design is how I approach that: not as a rigid framework, but as a way of making software reflect the business it serves.
 
-## Tech
-
-- **Platform:** .NET / C# / ASP.NET Core
-- **Patterns:** Domain-Driven Design, CQRS, Clean Architecture
-- **API:** REST, JWT, SignalR
-- **Infra:** Docker, Docker Compose
+I work across Azure services day to day — App Services, Functions, Service Bus, Azure SQL, Key Vault, and Azure Monitor — and I stay current with AI tooling to make sure the teams I work with are ready for where the industry is heading.
 
 ## Projects
 
