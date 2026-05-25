@@ -12,7 +12,7 @@ I work across Azure services day to day — App Services, Functions, Service Bus
 |------|------------|
 | [ddd](https://github.com/gabe-fernandez-052/ddd) | DDD examples: gym and warehouse management domains |
 | [api](https://github.com/gabe-fernandez-052/api) | ASP.NET Core patterns — CQRS, caching, JWT, SignalR |
-| [basics](https://github.com/gabe-fernandez-052/basics) | C# design patterns |
+| [basics](https://github.com/gabe-fernandez-052/basics) | All 23 Gang of Four design patterns in C#, using the book's own scenarios |
 | [docker](https://github.com/gabe-fernandez-052/docker) | Docker Compose examples |
 | [performance](https://github.com/gabe-fernandez-052/performance) | .NET performance and exception handling |
 | [leetcode](https://github.com/gabe-fernandez-052/leetcode) | Algorithm practice |
