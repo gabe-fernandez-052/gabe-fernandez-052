@@ -6,6 +6,19 @@ A lot of that work means crossing team and vertical boundaries before touching a
 
 I work across Azure services day to day — App Services, Functions, Service Bus, Azure SQL, Key Vault, and Azure Monitor — and I stay current with AI tooling to make sure the teams I work with are ready for where the industry is heading.
 
+## Featured — Fork 🍴
+
+**[Fork](https://gabe-fernandez-052.github.io/fork-site/)** is a two-player restaurant picker for iOS that ends the endless "where do you want to eat?" back-and-forth: you nominate three spots, send them to whoever you're eating with, and they pick one. I built it end-to-end — product, design, and code:
+
+- **React Native + Expo (SDK 56)** on the New Architecture with Hermes
+- **Supabase** backend — Postgres with row-level security, realtime subscriptions, and edge functions
+- **Native sign-in** with Apple and Google via Supabase identity tokens
+- **Google Places & Maps** for restaurant search, details, and directions
+- **Push notifications** through Expo and Supabase database webhooks
+- Built and submitted to the **App Store** via EAS
+
+[See the interactive walkthrough →](https://gabe-fernandez-052.github.io/fork-site/)
+
 ## Projects
 
 | Repo | What it is |
